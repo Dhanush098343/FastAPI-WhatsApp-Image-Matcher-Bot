@@ -1,4 +1,6 @@
 # Secrets to ignore
 client_secrets.json
 token.json
-n8n_image_matcher_workflow..json
+"accountSid": "{{ TWILIO_ACCOUNT_SID }}",
+"authToken": "{{ TWILIO_AUTH_TOKEN }}"
+
