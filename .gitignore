@@ -1,15 +1,4 @@
-# Ignore credentials
+# Secrets to ignore
 client_secrets.json
 token.json
-
-# Ignore Python cache
-__pycache__/
-*.pyc
-
-# Ignore image files if you don’t want them on GitHub
-*.jpg
-*.jpeg
-*.png
-
-# VS Code settings (optional)
-.vscode/
+n8n_image_matcher_workflow..json
